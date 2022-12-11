@@ -1,17 +1,17 @@
 # Топология
-![topology](pictures/topology.jpg)
+![topology](pictures/topology.bmp)
 
 # Клиент 1
-![pc1](pictures/pc3.jpg)
+![pc1](pictures/pc3.bmp)
 
 # Клиент 2
-![pc2](pictures/pc4.jpg)
+![pc2](pictures/pc4.bmp)
 
 # Пинги
-![pings](pictures/pings.jpg)
+![pings](pictures/pings.bmp)
 
 # STP
-![stp](pictures/stp.jpg)
+![stp](pictures/stp.bmp)
 
 # Роутер
-![router](pictures/router.jpg)
+![router](pictures/router.bmp)
