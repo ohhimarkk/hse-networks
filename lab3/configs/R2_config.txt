@@ -126,6 +126,7 @@ no ip http secure-server
 ip nat pool P 10.0.0.6 10.0.0.200 netmask 255.255.255.0
 ip nat inside source list 10 pool P
 ip nat inside source list 150 pool P
+ip nat inside source list NAT interface e0/1 overload
 !
 !
 !
